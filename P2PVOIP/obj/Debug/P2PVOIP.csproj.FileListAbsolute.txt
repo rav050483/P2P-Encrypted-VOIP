@@ -1,0 +1,13 @@
+C:\Rav\Projects\P2PVOIP\P2PVOIP\bin\Debug\P2PVOIP.exe.config
+C:\Rav\Projects\P2PVOIP\P2PVOIP\bin\Debug\P2PVOIP.exe
+C:\Rav\Projects\P2PVOIP\P2PVOIP\bin\Debug\P2PVOIP.pdb
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.csprojResolveAssemblyReference.cache
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.Main.resources
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.Properties.Resources.resources
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.csproj.GenerateResource.Cache
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.exe
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.pdb
+C:\Rav\Projects\P2PVOIP\P2PVOIP\bin\Debug\NAudio.dll
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.MessageForm.resources
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.MessageView.resources
+C:\Rav\Projects\P2PVOIP\P2PVOIP\obj\Debug\P2PVOIP.CallForm.resources
